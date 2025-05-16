@@ -1,4 +1,4 @@
-# Discreete_time_simulator_02-2024
+# Discrete_time_simulator_02-2024
 
 
 # Job Scheduling Simulator
